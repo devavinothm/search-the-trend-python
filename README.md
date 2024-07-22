@@ -7,5 +7,5 @@ Search The Trend Tool is a tool that allows you to search for the trend of a key
 ## Connect
 
 - [Github](https://github.com/devavinothm/)
-- [LinkedIn](https://www.linkedin.com/in/devaavinoth/)
+- [LinkedIn](https://www.linkedin.com/in/devavinoth/)
 - [Twitter](https://twitter.com/devavinothm)
