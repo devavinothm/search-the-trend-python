@@ -2,6 +2,9 @@ import streamlit as st
 from GoogleNews import GoogleNews
 from youtube_search import YoutubeSearch
 
+# Set the app to wide mode
+st.set_page_config(layout="wide")
+
 # Streamlit app
 st.title("Search The Trend")
 
